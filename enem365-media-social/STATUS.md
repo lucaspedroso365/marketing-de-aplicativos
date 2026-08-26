@@ -36,3 +36,11 @@ Os arquivos `1.png`…`5.png` **nem sempre seguem a ordem dos slides**. Conferir
 | `como-criar-uma-tese-forte` | 1, 2, 3, 4, 5 | ✅ |
 | `7-erros-que-fazem-perder-ponto` | — | ❌ não conferido (postado na mão) |
 | demais pastas | — | ❌ conferir antes de agendar |
+
+## ⚠️ Formato das imagens (descoberto em 26/08/2026)
+
+**Instagram e TikTok não aceitam PNG** na API de publicação — o Instagram trava em `QUEUE` e o TikTok vai para `ERROR`, sem mensagem legível pela API.
+
+Use sempre os arquivos de **`enem365-media-social-jpg/<slug>/*.jpg`** (1080×1350, JPEG q92, ~250 KB) para todas as redes. Os PNG em `enem365-media-social/` ficam como master de origem.
+
+Conversão (não há ImageMagick na máquina; o `convert` do PATH é o utilitário FAT→NTFS do Windows): PowerShell + `System.Drawing`, redimensionando para 1080×1350.
