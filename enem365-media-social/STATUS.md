@@ -61,3 +61,17 @@ Nota: a pasta `estrutura-de-uma-redacao` é sobre a estrutura da **introdução*
 ## ⚠️ Limitação do Postiz
 
 O MCP **não deleta posts** e **não troca anexo** de post existente. Corrigir mídia = criar post novo; o antigo é apagado manualmente no app.
+
+## Posts de notícia (X e Threads)
+
+100 publicações agendadas: 50 posts × 2 redes, de 27/08 a 05/09/2026.
+
+- **Horários:** 09h, 11h, 14h, 18h e 21h — fora dos slots de carrossel (12h/16h/20h). Threads no minuto :00, X no :01.
+- **Formato:** texto puro, sem imagem. Cada post termina com `🗞️ Fonte: <veículo>`.
+- **Fontes:** Inep, MEC e Agência Brasil — as fontes primárias. Nunca creditar um veículo que apenas republicou.
+- **Limites validados:** X 280 caracteres, Threads 500, com o rodapé de fonte incluído na contagem.
+- **Rascunho aprovado:** https://claude.ai/code/artifact/0276bad1-bf18-4c44-a5ff-acf944a84493
+
+⚠️ Oito posts usam as orientações de dia de prova da edição **2025** (caneta, itens proibidos, eletrônicos) — as de 2026 ainda não haviam sido publicadas. Reconferir quando o Inep divulgar.
+
+⚠️ Divergência entre fontes oficiais no total de inscritos: MEC e Agência Brasil registram 5.055.818; uma página do Inep fala em "mais de 5,7 milhões". Os posts usam o número do MEC e não chamam de recorde — o recorde histórico é de 2014, com 8.722.290.
